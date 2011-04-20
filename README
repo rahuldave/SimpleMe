@@ -1,0 +1,5 @@
+A simple way to organize information and thoughts, using Dropbox, and Dropbox
+apps like Elements or Trunk Notes on ios, and normal editors elsewhere.
+
+Written in Python. The idea is to support output to blogs, etc, and just plain
+storage.
